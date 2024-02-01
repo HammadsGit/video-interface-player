@@ -1,6 +1,6 @@
 # *Video Player*
 
-A small video player created in C++ by a team of 5 developers is a software application designed to play video files on a computer.
+A small video player created in C++ by working in a team of 5 developers. Its is a software application designed to play video files on a computer.
 
 ## Startup
 * On startup, you will be asked to either provide the app with videos. You can press **Open File** or **Open Folder**, or quit the app and provide the path to a folder of videos as a command-line argument.
